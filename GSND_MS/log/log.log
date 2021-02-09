@@ -1,0 +1,28 @@
+[] Wed Dec  9 16:01:02 2020 ##funcname: Version ##workdir:  ##filename:  ##desc: <urlopen error [Errno 11001] getaddrinfo failed>
+[] Wed Dec  9 16:01:22 2020 ##funcname: Login ##workdir:  ##filename:  ##desc: <urlopen error [Errno 11001] getaddrinfo failed>
+[] Wed Dec  9 16:01:29 2020 ##funcname: Version ##workdir:  ##filename:  ##desc: <urlopen error [Errno 11001] getaddrinfo failed>
+[] Wed Dec  9 16:01:34 2020 ##funcname: Login ##workdir:  ##filename:  ##desc: <urlopen error [Errno 11001] getaddrinfo failed>
+[admin] Thu Dec 10 09:33:43 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:33:46 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:33:48 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:33:50 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:09 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:12 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:16 2020 ##funcname: Prepro ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: '작성일시'
+[admin] Thu Dec 10 09:35:19 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:21 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:23 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[admin] Thu Dec 10 09:35:29 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[test] Thu Dec 10 09:36:35 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[test] Thu Dec 10 09:36:40 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: ''
+[test] Thu Dec 10 09:38:38 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/mb/ ##filename: data_origin.csv ##desc: ''
+[test] Thu Dec 10 09:38:51 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/mb/ ##filename: data_origin.csv ##desc: ''
+[test] Thu Dec 10 10:06:40 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/mb/ ##filename: data_origin.csv ##desc: ''
+[test] Thu Dec 10 10:11:24 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: expected string or bytes-like object
+[test] Thu Dec 10 10:11:28 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: expected string or bytes-like object
+[test] Thu Dec 10 10:12:22 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: expected string or bytes-like object
+[test] Thu Dec 10 10:13:44 2020 ##funcname: Makegraph_Wordcloud ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: expected string or bytes-like object
+[test] Fri Dec 11 10:34:11 2020 ##funcname: Makegraph_Wordcloud_Konlpy ##workdir: C:/mb/ ##filename: data_origin.csv ##desc: Java Virtual Machine is not running
+
+[test] Fri Dec 11 12:55:38 2020 ##funcname: Makegraph_Wordcloud_Konlpy ##workdir: C:/Users/User/Desktop/ ##filename: SA_changed.csv ##desc: name 'printt' is not defined
+[test] Fri Dec 11 13:31:02 2020 ##funcname: Load_File ##workdir:  ##filename:  ##desc: string index out of range
